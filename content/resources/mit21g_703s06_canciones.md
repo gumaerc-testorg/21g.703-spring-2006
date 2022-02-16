@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-703-spanish-iii-spring-2006/359cacc843518d9b5450c602ffe9c132_MIT21G_703S06_canciones.pdf
+file: /media/courses/21g-703-spanish-iii-spring-2006/359cacc843518d9b5450c602ffe9c132_MIT21G_703S06_canciones.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 4 canciones en video
 uid: 359cacc8-4351-8d9b-5450-c602ffe9c132
