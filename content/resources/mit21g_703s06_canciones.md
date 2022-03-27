@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd54a69a-c9ad-7222-950a-9a7e9eaa1bfd
 resourcetype: Document
 title: 4 canciones en video
 uid: 359cacc8-4351-8d9b-5450-c602ffe9c132

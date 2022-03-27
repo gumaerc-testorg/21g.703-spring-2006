@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd54a69a-c9ad-7222-950a-9a7e9eaa1bfd
 resourcetype: Document
 title: CONVIVENCIA
 uid: 698a93fa-98fb-e673-d34b-f17c1d2e6b10

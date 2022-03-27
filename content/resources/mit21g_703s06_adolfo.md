@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c4ef5f56-0884-d4e3-f45a-4c6a0acf6ac4
 resourcetype: Document
 title: Adolfo Plasencia
 uid: aa73186f-615e-7976-6b90-98d7972123a0
