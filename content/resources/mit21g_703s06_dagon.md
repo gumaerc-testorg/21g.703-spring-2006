@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-703-spanish-iii-spring-2006/db367ca3fc5103587ac9352406927d87_MIT21G_703S06_dagon.pdf
+file: /courses/21g-703-spanish-iii-spring-2006/db367ca3fc5103587ac9352406927d87_MIT21G_703S06_dagon.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

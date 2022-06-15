@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Brief Overview of the MITUPV Exchange  In English and Spanish.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -21,15 +22,15 @@ The project began with support by Foreign Languages and Literatures at MIT. In S
 
 Unlike other foreign language projects where the Webpage design is begun from scratch with particular foreign-language pedagogical objectives, the design of the MITUPV Exchange reflects the design norms of the course in which it was programmed, and which builds upon a template based on very specific kinds of programming and database design (ArsDigita.com). Functionality includes uploading, downloading and commenting with threaded messages in both languages, a changing spotlight where community participants suggest topics and community members vote on future topics, a "people" section which lists participants who can choose to post photos and attach homepage links to their names and email addresses, a calendar section used to post events, a chat room, a configurable "what's new?" section which lists recent activity in all categories, and a "teach me" section, similar to PowerPoint, which is intended to test various approaches to distance learning of specific subjects or topics. The result is a very open and robust Web site, a "community," that can accept input of various kinds from its users.
 
-On the MIT side, MITUPV Exchange is directed by Douglas Morgenstern, who also edits, compresses and uploads the videos created by MIT students. Additional sections of Spanish III have been taught in recent semesters by José Ramos who also contributes to the project. Below, there are available essays (in Spanish) written by Adolfo Plasencia, who directs work on the site at the UPV, and is also Director for Europe for the project, and by Rafael Seiz ([PDF]({{< baseurl >}}/resources/mit21g_703s06_raf_se)), who coordinates the work of students studying English.
+On the MIT side, MITUPV Exchange is directed by Douglas Morgenstern, who also edits, compresses and uploads the videos created by MIT students. Additional sections of Spanish III have been taught in recent semesters by José Ramos who also contributes to the project. Below, there are available essays (in Spanish) written by Adolfo Plasencia, who directs work on the site at the UPV, and is also Director for Europe for the project, and by Rafael Seiz ({{% resource_link b1f65f02-fab6-9e02-9b73-71a712e3ceef "PDF" %}}), who coordinates the work of students studying English.
 
 The MITUPV Exchange was written up in [_Wired News_](http://www.wired.com/2002/11/college-kids-a-day-in-the-life/) in November, 2002 and in [_Syllabus Magazine/Campus Technology_](http://www.campus-technology.com/article.asp?id=8293) in November, 2003.
 
 Additional Information about MITUPV Exchange (in Spanish)
 ---------------------------------------------------------
 
-"MITUPV Exchange: Transformar la formación humanística mediante la tecnologí" ([PDF]({{< baseurl >}}/resources/mit21g_703s06_adolfo))  
+"MITUPV Exchange: Transformar la formación humanística mediante la tecnologí" ({{% resource_link aa73186f-615e-7976-6b90-98d7972123a0 "PDF" %}})  
 by Adolfo Plasencia, Lecturer and Project Director for the Masters Program in Multimedia Applications for the Internet, Universidad Politécnica de Valencia
 
-"El Proyecto MITUPV Exchange para la ETSID (UPV) de Valencia" ([PDF]({{< baseurl >}}/resources/mit21g_703s06_rafael))  
+"El Proyecto MITUPV Exchange para la ETSID (UPV) de Valencia" ({{% resource_link 92d28ec7-7d12-ba85-7c35-778025bf651a "PDF" %}})  
 by Rafael Seiz, Lecturer in English, Universidad Politécnica de Valencia

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the course syllabus, grading
+  criterion and the calander.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -116,7 +118,7 @@ Aquí está un video con segmentos de las siguientes actividades:
 {{< anchor "calendar" >}}{{< /anchor >}}Calendario
 --------------------------------------------------
 
-Aquí está una lista de las actividades diarias de la clase. Por favor visite [readings]({{< baseurl >}}/pages/readings) y [assignments]({{< baseurl >}}/pages/assignments) para ver el todo de la tarea.
+Aquí está una lista de las actividades diarias de la clase. Por favor visite {{% resource_link 35cdd279-ad37-f966-31b0-2503509bd75c "readings" %}} y {{% resource_link fda2994d-cd66-3981-44f4-4b0d804a0212 "assignments" %}} para ver el todo de la tarea.
 
 {{< tableopen >}}
 {{< theadopen >}}

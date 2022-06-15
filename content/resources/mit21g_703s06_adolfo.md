@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-703-spanish-iii-spring-2006/aa73186f615e79766b9098d7972123a0_MIT21G_703S06_adolfo.pdf
+file: /courses/21g-703-spanish-iii-spring-2006/aa73186f615e79766b9098d7972123a0_MIT21G_703S06_adolfo.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

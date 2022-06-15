@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In Spanish.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
