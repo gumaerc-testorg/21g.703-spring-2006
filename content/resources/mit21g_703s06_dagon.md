@@ -1,8 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-703-spanish-iii-spring-2006/db367ca3fc5103587ac9352406927d87_MIT21G_703S06_dagon.pdf
+file: /courses/21g-703-spanish-iii-spring-2006/db367ca3fc5103587ac9352406927d87_MIT21G_703S06_dagon.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
+parent_uid: bd54a69a-c9ad-7222-950a-9a7e9eaa1bfd
 resourcetype: Document
 title: "Dagon (pel\xEDcula filmada en Galicia, Espa\xF1a, en ingl\xE9s, castellano\
   \ y gallego)"

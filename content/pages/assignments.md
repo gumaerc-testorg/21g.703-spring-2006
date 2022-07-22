@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In Spanish.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fda2994d-cd66-3981-44f4-4b0d804a0212
 ---
