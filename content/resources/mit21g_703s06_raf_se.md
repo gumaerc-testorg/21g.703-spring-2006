@@ -5,6 +5,7 @@ file: /courses/21g-703-spanish-iii-spring-2006/b1f65f02fab69e029b7371a712e3ceef_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

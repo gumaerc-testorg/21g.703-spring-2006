@@ -4,6 +4,7 @@ description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/2785edfc09562dcce39bd18b86acdb21_MIT21G_703S06_uni.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
