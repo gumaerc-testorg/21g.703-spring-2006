@@ -35,7 +35,7 @@ Durante la primera parte del semestre, habrá dos etapas en la redacción y entr
 Proyecto MITUPV
 ---------------
 
-También habrá componentes orales y escritos en su participación en el proyecto {{% resource_link "378963ac-ad35-48c0-b619-552788724653" "MITUPV" %}}, página Web programada aquí en MIT. Es un proyecto de intercambio virtual con alumnos de la Universidad Politécnica de Valencia (España) y, a veces, con estudiantes de otras universidades. Su participación en este proyecto consistirá en:
+También habrá componentes orales y escritos en su participación en el proyecto [MITUPV](http://mitupv.mit.edu/), página Web programada aquí en MIT. Es un proyecto de intercambio virtual con alumnos de la Universidad Politécnica de Valencia (España) y, a veces, con estudiantes de otras universidades. Su participación en este proyecto consistirá en:
 
 1.  **contribuir material** en texto redactado en castellano y en inglés, a los Foros (Bulletin Boards) y a la sección de Comentarios sobre Multimedia;
 2.  agregar enlaces (links), subir ("upload") **fotos** y hacer un **video** con discursos y entrevistas en ambas lenguas (hay que mandarle email al profesor Morgenstern sobre el tema del video; Ud. le entrega el cassette mini dv a su profesor, así que no tiene Ud. que editar el video);
@@ -107,7 +107,7 @@ La Asistencia a clase es de muchísima importancia. Si un alumno falta más de *
 Video de actividades
 --------------------
 
-({{% resource_link "d8359b3f-8143-4e2f-9045-1024dcb6e475" "MP4 - 12 MB" %}})
+([MP4 - 12 MB](https://archive.org/download/MIT21F.703S03/activities-220k.mp4))
 
 Aquí está un video con segmentos de las siguientes actividades:
 
@@ -183,7 +183,7 @@ _Gramática_, capitulo 2.
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Empezar película {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+Empezar película [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +192,7 @@ Empezar película {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-_Lit. y arte_, Unidad 2; seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+_Lit. y arte_, Unidad 2; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +210,7 @@ _Gramática_, capitulo 3.
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinaz
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Dar resumen oral de su párrafo; seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+Dar resumen oral de su párrafo; seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +228,7 @@ Dar resumen oral de su párrafo; seguir con {{% resource_link "c35ac54d-6777-4e8
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+Seguir con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +237,7 @@ Seguir con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinaz
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Acabar con {{% resource_link "c35ac54d-6777-4e8c-9e98-e69e702ae6bc" "_El espinazo del diablo_" %}}.
+Acabar con [_El espinazo del diablo_](http://www.elespinazodeldiablo.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,9 +329,9 @@ Trabajar en grupos con la hoja sobre "Don Payasito."
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Ver breve segmento de la película {{% resource_link "1757d8a1-020b-4d3a-914f-2e721b932759" "_Juana la Loca_" %}}.  
+Ver breve segmento de la película [_Juana la Loca_](http://www.imdb.com/title/tt0270480/).  
   
-Recibir videos de {{% resource_link "1757d8a1-020b-4d3a-914f-2e721b932759" "_Juana la Loca_" %}} para compartir y ver fuera de clase (hay que acabar la película para el próximo semana).
+Recibir videos de [_Juana la Loca_](http://www.imdb.com/title/tt0270480/) para compartir y ver fuera de clase (hay que acabar la película para el próximo semana).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +367,7 @@ Actividad: "La universidad utópica."
 26
 {{< tdclose >}}
 {{< tdopen >}}
-_Lit. y arte_, Unidad 5; discutir {{% resource_link "1757d8a1-020b-4d3a-914f-2e721b932759" "_Juana la Loca_" %}}.
+_Lit. y arte_, Unidad 5; discutir [_Juana la Loca_](http://www.imdb.com/title/tt0270480/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -394,7 +394,7 @@ _Lit. y arte_, Unidad 6.
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Empezar la película {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiempo de las mariposas_" %}}.
+Empezar la película [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -403,7 +403,7 @@ Empezar la película {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiempo de las mariposas_" %}}.
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +412,7 @@ Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiem
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiempo de las mariposas_" %}}.
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -421,7 +421,7 @@ Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiem
 32
 {{< tdclose >}}
 {{< tdopen >}}
-Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiempo de las mariposas_" %}}.
+Seguir con [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Seguir con {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiem
 {{< tdopen >}}
 _Gramática_, capitulo 8.  
   
-Acabar {{% resource_link "6c10e43a-20be-4ae2-8d24-334a4db54166" "_En el tiempo de las mariposas_" %}}.
+Acabar [_En el tiempo de las mariposas_](http://www.imdb.com/title/tt0263467/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -477,7 +477,7 @@ _Lit. y arte_, Unidad 7.
 38
 {{< tdclose >}}
 {{< tdopen >}}
-_Gramática_, capitulo 10; empezar la película {{% resource_link "e1847e04-26d7-42ce-89b4-8f6271057526" "_María llena eres de gracia_" %}}.
+_Gramática_, capitulo 10; empezar la película [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -486,7 +486,7 @@ _Gramática_, capitulo 10; empezar la película {{% resource_link "e1847e04-26d7
 39
 {{< tdclose >}}
 {{< tdopen >}}
-_Lit. y arte_, Unidad 8; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4-8f6271057526" "_María llena eres de gracia_" %}}.
+_Lit. y arte_, Unidad 8; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -495,7 +495,7 @@ _Lit. y arte_, Unidad 8; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4-8
 40
 {{< tdclose >}}
 {{< tdopen >}}
-_Gramática_, capitulo 11; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4-8f6271057526" "_María llena eres de gracia_" %}}.
+_Gramática_, capitulo 11; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -504,7 +504,7 @@ _Gramática_, capitulo 11; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4
 41
 {{< tdclose >}}
 {{< tdopen >}}
-_Lit. y arte_, Unidad 9; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4-8f6271057526" "_María llena eres de gracia_" %}}.
+_Lit. y arte_, Unidad 9; seguir con [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -513,7 +513,7 @@ _Lit. y arte_, Unidad 9; seguir con {{% resource_link "e1847e04-26d7-42ce-89b4-8
 42
 {{< tdclose >}}
 {{< tdopen >}}
-_Gramática_, capitulo 12; acabar {{% resource_link "e1847e04-26d7-42ce-89b4-8f6271057526" "_María llena eres de gracia_" %}}.
+_Gramática_, capitulo 12; acabar [_María llena eres de gracia_](http://www.mariallenaeresdegracia.com/).
 {{< tdclose >}}
 
 {{< trclose >}}

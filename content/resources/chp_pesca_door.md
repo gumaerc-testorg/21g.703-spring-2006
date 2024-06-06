@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/8ba6b3455a8eea29ef6f615d40711cc5_chp_pesca_door.jpg
+file_size: 66660
 file_type: image/jpeg
 image_metadata:
   caption: ''

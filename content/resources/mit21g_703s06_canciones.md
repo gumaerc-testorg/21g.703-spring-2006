@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/359cacc843518d9b5450c602ffe9c132_MIT21G_703S06_canciones.pdf
+file_size: 73110
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

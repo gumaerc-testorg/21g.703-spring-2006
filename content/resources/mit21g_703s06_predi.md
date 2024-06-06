@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/5e4a8c2e76f7ca03da8ddcbc6fbd1f00_MIT21G_703S06_predi.pdf
+file_size: 58206
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

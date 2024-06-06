@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/92d28ec77d12ba857c35778025bf651a_MIT21G_703S06_rafael.pdf
+file_size: 170286
 file_type: application/pdf
 learning_resource_types:
 - Projects
