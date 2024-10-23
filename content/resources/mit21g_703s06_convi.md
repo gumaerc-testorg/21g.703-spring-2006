@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-703-spanish-iii-spring-2006/698a93fa98fbe673d34bf17c1d2e6b10_MIT21G_703S06_convi.pdf
+file: /ol-ocw-studio-app/courses/21g-703-spanish-iii-spring-2006/698a93fa98fbe673d34bf17c1d2e6b10_MIT21G_703S06_convi.pdf
 file_size: 116894
 file_type: application/pdf
 learning_resource_types: []
